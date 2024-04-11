@@ -1,0 +1,44 @@
+LSST affiliation,stage,training,lang_training,freq_coding,lang_freq,IDE,git_repo,git_branch,unit_test,linters,soft_doc,debuggers,git_PRs,collab_coding,paradigms,SDDs,notes
+"Galaxies, Transients and Variable Stars, Informatics and Statistics",0_undergrad,uni courses,"Python, C/C++",4,Python,Jupyter Notebook and Visual Studio,3,3,1,2,1,1,3,3,3,1,
+"Galaxies, Solar System",0_undergrad,uni courses,"Python, C/C++, JavaScript",3,"Python, C/C++",PyCharm,4,4,4,4,4,4,4,4,4,3,"Creating Virtual Environments for reproducibility across different computers (Docker, venv) while still in dev branch"
+"Galaxies, Active Galactic Nuclei",1_Phd,self-learn,Python,3,Python,Jupyter Notebook,3,1,1,1,1,1,2,1,4,1,
+Transients and Variable Stars,1_Phd,uni courses,Python,4,Python,VSCode: Jupyter Notebooks,2,2,1,1,1,1,2,2,2,1,
+Galaxies,1_Phd,self-learn,"Python, C/C++",1,"Python, Julia",jupyter Notebook,3,3,1,1,1,2,3,1,3,1,
+"Strong Lensing, Informatics and Statistics",1_Phd,short courses,"Python, Julia",4,Python,"Visual Studio, Jupyter Notebook",3,1,1,1,1,1,1,1,2,1,
+Transients and Variable Stars,1_Phd,short courses,Python,3,Python,"Jupyter Notebook, Spyder",2,1,1,1,1,3,1,1,3,3,
+Transients and Variable Stars,1_Phd,self-learn,,4,Python,Jupyter lab,3,2,1,1,1,1,1,2,1,1,
+"Galaxies, Transients and Variable Stars",1_Phd,uni courses,Fortran,4,"Python, C/C++",VS Code's open source variant: Codium,3,1,1,1,1,1,3,2,3,1,
+"Stars, Milky Way, and Local Volume",1_Phd,self-learn,,3,Python,"Jupyter notebook, Visual Studio Code",3,1,1,1,1,1,1,1,2,1,
+Transients and Variable Stars,1_Phd,short courses,"Python, C/C++",2,Python,"Jupyter Notebook, VS code",4,3,1,1,1,1,3,2,3,1,
+Transients and Variable Stars,2_Postdoc,self-learn,"Python, C/C++",4,Python,Jupyter Notebook,2,1,1,1,1,1,1,3,2,1,
+"Transients and Variable Stars, Informatics and Statistics",2_Postdoc,self-learn,,4,Python,"Jupyter Notebook, PyCharm",4,4,4,1,2,2,4,4,3,1,
+Strong Lensing,2_Postdoc,uni degree,"Python, C/C++, Java, JavaScript, VB, Prolog, C#, Assembly ",4,Python,"Jupyter Lab, Jupyter Notebook, PyCharm, Spyder, Eclipse",3,1,2,1,3,3,3,2,4,3,"GitHub for version control; Software Development Methodologies like Waterfall, Agile, Scrum to boost flexibility, efficiency; Design Patterns for common issue resolution and maintainability; CI/CD for minimizing manual tasks and enhancing quality; plus, Clean Code and Test-Driven Development principles for robust, maintainable, bug-free code."
+"Galaxies, Dark Energy, Active Galactic Nuclei, Transients and Variable Stars",2_Postdoc,uni courses,"Python, C/C++",4,Python,Jupyter Notebook/Jupyter Lab,3,3,1,1,1,1,3,2,3,3,"Docker, SQL and bash scripting"
+Galaxies,2_Postdoc,uni courses,C/C++,4,Python,Juypter Notebook,3,2,1,1,2,1,2,2,3,1,
+Dark Energy,2_Postdoc,self-learn,,4,"Python, C/C++",Visual Studio,4,4,2,2,3,2,4,3,3,1,
+"Stars, Milky Way, and Local Volume",2_Postdoc,uni courses,"Fortran, Pascal",4,"Python, Fortran",Jupyter Notebook,3,3,1,1,2,1,2,2,3,1,
+Solar System,2_Postdoc,self-learn,,4,Python,Jupyter Notebook,2,1,2,1,1,1,2,1,3,1,
+"Dark Energy, Strong Lensing",2_Postdoc,uni courses,C/C++,3,Python,"Jupyter Notebook, Visual Studio",4,4,4,4,4,1,4,4,2,1,
+"Transients and Variable Stars, Strong Lensing, Informatics and Statistics",2_Postdoc,short courses,Python,4,Python,"PyCharm, Sublime, Jupyter Notebook",3,3,2,2,2,2,1,2,4,3,
+"Stars, Milky Way, and Local Volume, Transients and Variable Stars, Informatics and Statistics, IDAC developer",3_tenureTrk,uni courses,"C/C++, Fortran",3,"Python, C/C++, R","Jupyter notebook, Spyder, R studio",3,3,1,1,2,3,2,1,3,1,
+Transients and Variable Stars,3_tenureTrk,uni courses,"Python, C/C++",3,Python,"Jupyter Notebook, PyCharm",4,3,2,4,3,2,4,4,4,3,
+Transients and Variable Stars,3_tenureTrk,self-learn,,3,Python,"Spyder, Jupyter Notebook",3,1,1,1,1,1,1,2,3,3,Web applications
+"Stars, Milky Way, and Local Volume, Transients and Variable Stars",4_permanent,uni courses,"Python, Fortran",4,Python,PyCharm,4,4,4,3,3,2,4,4,4,3,Test-driven development is a discipline that is worth learning.
+"Active Galactic Nuclei, Transients and Variable Stars",4_permanent,short courses,Python,2,Python,Jupyter Notebook,3,1,1,1,1,1,1,2,3,1,
+Galaxies,4_permanent,short courses,Python,4,Python,Jupyter Notebook,3,3,3,3,3,3,3,3,4,3,
+Dark Energy,4_permanent,uni degree,C/C++,4,Python,"vim, Jupyter",4,4,3,3,2,3,4,3,4,3,
+"Stars, Milky Way, and Local Volume, Transients and Variable Stars",4_permanent,self-learn,,2,Python,Jupyter Notebook,1,1,1,1,1,1,1,1,2,1,
+"Transients and Variable Stars, Informatics and Statistics, Alerts Broker (specify below which), ALeRCE",4_permanent,uni courses,Java,3,Python,"Jupyter Notebook, Visual Studio",4,3,2,4,1,2,3,3,3,3,3
+Transients and Variable Stars,4_permanent,self-learn,,3,Python,pycharm,4,4,3,4,3,2,4,4,3,3,
+Transients and Variable Stars,4_permanent,self-learn,Python,1,Python,Jupyter Notebook,3,1,1,1,1,1,2,2,2,1,
+"Galaxies, Dark Energy",4_permanent,self-learn,,2,"Python, IDL",Jupyter Notebook,3,3,1,1,1,2,3,3,2,1,
+Transients and Variable Stars,4_permanent,uni courses,C/C++,4,Python,"Visual Studio, Jupyter Notebook",4,4,3,4,3,1,4,3,4,1,
+"Informatics and Statistics, Alerts Broker (specify below which), Fink",4_permanent,uni courses,"C/C++, Java",4,Java,jedit,4,2,2,4,4,2,2,3,4,3,
+"Stars, Milky Way, and Local Volume, Transients and Variable Stars",4_permanent,self-learn,,4,"Python, C/C++",no,4,4,2,1,1,2,4,3,3,1,
+"RSP developer, Rubin DM",4_permanent,self-learn,,4,"Python, C/C++, Java, JavaScript, Groovy, Go, a little Ruby, Rust, Lisp",Rarely Jupyter Notebooks/IPython,4,4,4,4,4,4,4,4,4,3,"Diagramming tools (data flow, sequence, entity/relationship); Profilers (CPU and memory)"
+"Dark Energy, Transients and Variable Stars",4_permanent,self-learn,,4,Python,"Jupyter Notebook, Spyder,",2,1,1,1,1,1,1,1,1,1,
+"Dark Energy, Transients and Variable Stars, Informatics and Statistics",4_permanent,short courses,,4,"Python, Julia","JN, VS, RStudio",4,3,2,1,1,2,2,2,3,1,github actions
+Telescope & Site Software,5_softEngnr,uni degree,"Python, C/C++, Java, JavaScript, Prolog, Pascal, Basic, ...",4,"Python, C/C++",ViM text editor,4,4,4,4,4,4,4,4,4,4,
+"Alerts Broker (specify below which), ALeRCE",5_softEngnr,uni degree,"C/C++, Java",4,"Python, JavaScript, Go","Not an IDE, but Neovim",4,4,4,4,4,3,4,4,4,3,
+LINCC,5_softEngnr,uni degree,"C/C++, Java",4,"Python, C/C++",Visual Studio Code,4,4,4,4,4,2,4,4,4,4,
+"Alerts Broker (specify below which), The ALeRCE Broker",5_softEngnr,uni courses,"Python, C/C++, Java",4,Python,"PyCharm, Jupyter notebooks for data exploration",4,4,4,3,2,3,3,4,4,3,"Run tests, coverage and formatting checks automatically with github actions (or similar) after each commit or pull request"
